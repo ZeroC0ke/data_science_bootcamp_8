@@ -1,5 +1,5 @@
 # data_science_bootcamp_8
-My Data portfoli for data analyst role
+My Data portfolio for data analyst role
 
 ## What did I learn from this bootcamp
 
@@ -16,3 +16,5 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Python Programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIN => 
